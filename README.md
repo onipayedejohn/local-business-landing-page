@@ -132,6 +132,5 @@ A future improvement would be a booking system that shows available appointment 
 
 ## Project links
 
-- GitHub repository: Not yet added.
-- Live website: Not yet added.
+- Live website: chairman-barber-landing-page.netlify.app
 
